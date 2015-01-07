@@ -2,7 +2,7 @@
 Contributors: mbsatunc
 Tags: themezilla, theme zilla, portfolio, custom post type, custom taxonomy, portfolio type, images, gallery, video, audio, custom fields
 Stable Tag: 1.0
-Tested up to: 4.0
+Tested up to: 4.1
 Requires at least: 3.5
 License: GPLv2 or later
 
